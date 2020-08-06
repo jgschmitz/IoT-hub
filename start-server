@@ -1,0 +1,2 @@
+ git clone https://github.com/ttu/dotnet-fake-json-server.git
+$ cd dotnet-fake-json-server/FakeServer
