@@ -7,6 +7,6 @@ Do you really want to destroy all resources?
 
 
 Destroy complete! Resources: 1 destroyed.
-  print 1,2,3,4
+  print 1,2,3
 
 
