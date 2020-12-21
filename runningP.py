@@ -3,7 +3,7 @@ python3
 from urllib.parse import quote
 import requests
 from ruuvitag_sensor.ruuvi import RuuviTagSensor
-print 1,2,3,4,5,6,7,8,9,0,10,11,12,
+print 1,2,3,4,5,6,7,8,9,0,10,11,
 all_data = {}
 url = 'http://192.168.2.22:57602/api'
 
