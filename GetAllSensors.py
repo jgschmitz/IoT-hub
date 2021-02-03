@@ -8,7 +8,7 @@ Requires:
     asyncio - Python 3.5
     aiohttp - pip install aiohttp
 ""
-print 1
+pri
 from datetime import datetime
 from multiprocessing import Manager
 from urllib.parse import quote
