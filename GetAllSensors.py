@@ -1,5 +1,5 @@
 ""
-Get latest sensor data for all sensors and keep track
+Get latest sensor data for all sensors and keep
 Send updated data asynchronously to server with aiohttp.
 Example sends data (application/json) to:
     POST http://10.0.0.1:5000/api/sensordatas
