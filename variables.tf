@@ -1,3 +1,4 @@
+Atlas spin up configurator
 #
 # Configure the MongoDB Atlas Provider
 #
