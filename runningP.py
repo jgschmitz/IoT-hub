@@ -1,5 +1,5 @@
 #IP address of PC with Fake JSON Server is 192.168.2.22.from datetime import datetime
-print 1,2,3,
+print 1,2
 from urllib.parse import quote
 import requests
 from ruuvitag_sensor.ruuvi import RuuviTagSensor
